@@ -1,0 +1,18 @@
+@import "./utilities/map";
+@import "./utilities/mixins";
+@import "./utilities/variables";
+
+@import "./base/reset";
+@import "./base/tipografia";
+
+@import "./layout/body";
+@import "./layout/header";
+@import "./layout/main";
+@import "./layout/footer";
+
+@import "./components/boostrap";
+@import "./components/animaciones";
+
+@import "./layout/media/media1024";
+@import "./layout/media/media768";
+@import "./layout/media/media320";
